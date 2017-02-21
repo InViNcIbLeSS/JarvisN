@@ -4,6 +4,7 @@ import os
 import sys
 import webbrowser
 from jarvisBrain import Brain
+from classifier.jarvisClassifier import JarvisClassifier
 from command_manager import CommandManager
 import pyttsx
 engine = pyttsx.init('sapi5')
@@ -20,6 +21,7 @@ def main():
 	java_path = "C:\Program Files\Java\jdk1.8.0_101\\bin\java.exe"
 	os.environ['JAVAHOME'] = java_path
 	brain = Brain()
+	classifier = JarvisClassifier()
 	commandManager = CommandManager()
 	
 	async def hello(websocket, path):
@@ -32,6 +34,7 @@ def main():
 		# THINK HERE ----------------------------------------------
 		#------
 		#------
+		#cmd = brain.getCommand(msg)
 		cmd = brain.getCommand(msg)
 		
 		#React

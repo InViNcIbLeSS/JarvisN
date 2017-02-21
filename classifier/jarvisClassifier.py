@@ -6,16 +6,16 @@ from statistics import mode
 class JarvisClassifier(ClassifierI):
 
 	def __init__(self):
-		all_words_file = open("words.pickle", "rb")
+		all_words_file = open("classifier/words.pickle", "rb")
 		self.all_words = pickle.load(all_words_file)
 		all_words_file.close()
-		classifier_f = open("general_classifiers.pickle", "rb")
+		classifier_f = open("classifier/general_classifiers.pickle", "rb")
 		self.general_classifier = pickle.load(classifier_f)
 		classifier_f.close()
 		
 	def classify(self, text):
 		featurized_test_sentence = {i:(i in word_tokenize(text.lower())) for i in self.all_words}
-		print(self.getWinner(featurized_test_sentence))
+		return self.getWinner(featurized_test_sentence)
 		
 	def test(self, text):
 		featurized_test_sentence = {i:(i in word_tokenize(text.lower())) for i in self.all_words}
