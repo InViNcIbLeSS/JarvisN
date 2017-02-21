@@ -1,11 +1,9 @@
 import asyncio
 import websockets
 import os
-from pygame import mixer
-from gtts import gTTS
-from tempfile import TemporaryFile
 import sys
 import webbrowser
+import config_data
 from jarvisBrain import Brain
 from command_manager import CommandManager
 import pyttsx
@@ -18,10 +16,10 @@ def speak(speech):
 
 def main():
 	
-	os.chdir('D:Python/Jarvis-master')
+	os.chdir(config_data.directory_path)
 	#webbrowser.open('http://localhost/jarvis/jarvis.php')
 	java_path = "C:\Program Files\Java\jdk1.8.0_101\\bin\java.exe"
-	os.environ['JAVAHOME'] = java_path
+	os.environ['JAVAHOME'] = config_data.java_path
 	brain = Brain()
 	commandManager = CommandManager()
 	
