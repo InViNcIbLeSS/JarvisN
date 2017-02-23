@@ -6,9 +6,20 @@ from nltk.classify.scikitlearn import SklearnClassifier
 from sklearn.naive_bayes import MultinomialNB,BernoulliNB
 from sklearn.linear_model import LogisticRegression,SGDClassifier
 from sklearn.svm import SVC, LinearSVC, NuSVC
+import sys
+import os
+sys.path.append(r"C:\Users\Dhaval\Documents\GitHub")                   # Your JarvisN folder Location... Replace it
+from JarvisN.database.datahelper import DataDbHelper				   # Rename folder to JarvisN not JarvisN-Master
 
-td = data.training_data
-ts = data.test_data
+td = []
+dbh = DataDbHelper()
+result = dbh.getResult("SELECT sentence, label1 FROM trainingdata")
+dbh.closeConnection()
+
+for row in result:
+	td.append((row[0],row[1]))
+
+ts = td
 all_words = set(word.lower() for passage in td for word in word_tokenize(passage[0]))
 training_set = [({word: (word in word_tokenize(x[0])) for word in all_words}, x[1]) for x in td]
 testing_set = [({word: (word in word_tokenize(x[0])) for word in all_words}, x[1]) for x in ts]
