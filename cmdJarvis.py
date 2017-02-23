@@ -17,6 +17,7 @@ def speak(speech):
 
 def main():
 	
+	sys.path.append(config_data.directory_path)
 	os.chdir(config_data.directory_path)
 	#webbrowser.open('http://localhost/jarvis/jarvis.php')
 	java_path = "C:\Program Files\Java\jdk1.8.0_101\\bin\java.exe"

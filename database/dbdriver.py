@@ -3,5 +3,5 @@ import data
 td = data.training_data
 
 dbh = DataDbHelper()
-dbh.getTrainingDataCursor()
+result = dbh.getTrainingDataCursor()
 dbh.closeConnection()

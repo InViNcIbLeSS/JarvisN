@@ -24,3 +24,10 @@ class DataDbHelper:
 		results = self.cursor.fetchall()
 		return results
 		
+	def getResult(self, query):
+		# Execute the SQL command
+		self.cursor.execute(query)
+		# Fetch all the rows in a list of lists.
+		results = self.cursor.fetchall()
+		return results
+		
