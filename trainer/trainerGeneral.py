@@ -13,7 +13,7 @@ from JarvisN.database.datahelper import DataDbHelper				   # Rename folder to Ja
 
 td = []
 dbh = DataDbHelper()
-result = dbh.getResult("SELECT sentence, label1 FROM trainingdata")
+result = dbh.getResult("SELECT sentence, label1 FROM trainingdata")	   # execute ur query here
 dbh.closeConnection()
 
 for row in result:

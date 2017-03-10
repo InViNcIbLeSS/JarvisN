@@ -1,5 +1,6 @@
-from jarvisClassifier import JarvisClassifier
+from jarvisClassifierN import JarvisClassifier
+print('asd')
 jc = JarvisClassifier()
-jc.test('how are you')
+
 while(True):
-	pass
+	print(jc.classify(input(),'general'))
