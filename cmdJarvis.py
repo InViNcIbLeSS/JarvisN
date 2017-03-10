@@ -4,8 +4,9 @@ import os
 import sys
 import webbrowser
 import config_data
+sys.path.append(config_data.jarvis_folder_location)
 from jarvisBrain import Brain
-from classifier.jarvisClassifier import JarvisClassifier
+from classifier.jarvisClassifierN import JarvisClassifier
 from command_manager import CommandManager
 import pyttsx
 engine = pyttsx.init('sapi5')
@@ -17,7 +18,7 @@ def speak(speech):
 
 def main():
 	
-	sys.path.append(config_data.directory_path)
+	
 	os.chdir(config_data.directory_path)
 	#webbrowser.open('http://localhost/jarvis/jarvis.php')
 	java_path = "C:\Program Files\Java\jdk1.8.0_101\\bin\java.exe"
@@ -30,7 +31,7 @@ def main():
 	
 		msg = input()
 		#cmd = brain.getCommand(msg)
-		cmd = classifier.classify(msg)
+		cmd = classifier.classify(msg,'general')
 		#React
 		commandManager.callCommand(cmd, msg)
 		if msg == " close" or msg == "close":
