@@ -9,6 +9,7 @@ from jarvisBrain import Brain
 from classifier.jarvisClassifierN import JarvisClassifier
 from command_manager import CommandManager
 import pyttsx
+from JarvisN.database.datahelper import DataDbHelper
 engine = pyttsx.init('sapi5')
 
 def speak(speech):
@@ -26,14 +27,18 @@ def main():
 	brain = Brain()
 	classifier = JarvisClassifier()
 	commandManager = CommandManager()
+	#db = DataDbHelper()
 	
 	while(True):
 	
 		msg = input()
 		#cmd = brain.getCommand(msg)
 		cmd = classifier.classify(msg,'general')
+		sub = classifier.classify(msg,cmd)
+		
 		#React
-		commandManager.callCommand(cmd, msg)
+		entity , type = commandManager.callCommand(cmd, msg)
+		print(cmd,sub,entity,type)
 		if msg == " close" or msg == "close":
 			break
 	print("closed")

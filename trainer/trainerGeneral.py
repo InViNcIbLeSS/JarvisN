@@ -13,11 +13,13 @@ from JarvisN.database.datahelper import DataDbHelper				   # Rename folder to Ja
 
 td = []
 dbh = DataDbHelper()
-result = dbh.getResult("SELECT sentence, label1 FROM trainingdata")	   # execute ur query here
+#result = dbh.getResult("SELECT sentence, label1 FROM trainingdata")	   # execute ur query here
+result = dbh.getResult("SELECT sentence, label2 FROM trainingdata WHERE label1='dictionary'")	   # execute ur query here
 dbh.closeConnection()
 
 for row in result:
 	td.append((row[0],row[1]))
+	print(row[0],row[1])
 
 ts = td
 all_words = set(word.lower() for passage in td for word in word_tokenize(passage[0]))
