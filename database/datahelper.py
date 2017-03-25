@@ -9,10 +9,10 @@ class DataDbHelper:
 	def closeConnection(self):
 		self.db.close()
 	
-	def insertIntoTrainingData(self,sent, label1, label2, es, ee):
-		query = "INSERT INTO trainingdata(sentence, label1, label2, entitys, entitye) \
-				VALUES('%s', '%s', '%s', '%d', '%d')" % \
-				(sent, label1, label2, es, ee)
+	def insertIntoTrainingData(self,sent, label1, label2, es, ee, e):
+		query = "INSERT INTO trainingdata(sentence, label1, label2, entitys, entitye, entity) \
+				VALUES('%s', '%s', '%s', '%d', '%d', '%s')" % \
+				(sent, label1, label2, es, ee, e)
 		self.cursor.execute(query)
 		
 	def getTrainingDataCursor(self):
