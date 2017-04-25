@@ -15,6 +15,8 @@ class JarvisClassifier(ClassifierI):
 		self.general_classifier = pickle.load(classifier_f)
 		classifier_f = open(config_data.directory_path+"\classifier\dictionary_classifiers.pickle", "rb")
 		self.dictionary_classifier = pickle.load(classifier_f)
+		classifier_f = open(config_data.directory_path+"\classifier\music_classifiers.pickle", "rb")
+		self.music_classifier = pickle.load(classifier_f)
 		classifier_f.close()
 		
 		self.dictionary_tagger = StanfordNERTagger(config_data.directory_path+'\\tagger\\english.all.3class.distsim.crf.ser.gz',
@@ -22,7 +24,9 @@ class JarvisClassifier(ClassifierI):
 		
 		self.classifier_type = {
 			'general':self.general_classifier,
-			'dictionary':self.dictionary_classifier
+			'dictionary':self.dictionary_classifier,
+			'question':self.general_classifier,
+			'music':self.music_classifier
 			}
 		self.tagger = {
 			'dictionary':self.dictionary_tagger

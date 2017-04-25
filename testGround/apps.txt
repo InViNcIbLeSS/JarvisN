@@ -1,0 +1,369 @@
+Python 3.6.0 Tcl/Tk Support (32-bit)	None
+Python 3.6.0 Executables (32-bit)	None
+Python 3.6.0 Development Libraries (32-bit)	None
+Python 3.6.0 pip Bootstrap (32-bit)	None
+Python 3.6.0 Documentation (32-bit)	None
+Python 3.6.0 Core Interpreter (32-bit)	None
+Python 3.6.0 Test Suite (32-bit)	None
+Skype Web Plugin	C:\Users\Dhaval\AppData\Local\SkypePlugin\7.28.0.46\
+Python 3.6.0 Utility Scripts (32-bit)	None
+Python 3.6.0 Standard Library (32-bit)	None
+Microsoft Application Error Reporting	None
+Microsoft DCF MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Professional Plus 2013	C:\Program Files\Microsoft Office\
+Microsoft OneNote MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office 32-bit Components 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Shared 32-bit MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office OSM MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office OSM UX MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft InfoPath MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Access MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Shared Setup Metadata MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Excel MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Access Setup Metadata MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft PowerPoint MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Publisher MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Outlook MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Groove MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Word MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Lync MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Proofing (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Shared MUI (English) 2013	C:\Program Files\Microsoft Office\
+Microsoft Office Proofing Tools 2013 - English	C:\Program Files\Microsoft Office\
+Microsoft Office Proofing Tools 2013 - Español	C:\Program Files\Microsoft Office\
+Outils de vérification linguistique 2013 de Microsoft Office - Français	C:\Program Files\Microsoft Office\
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views	None
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack	None
+Visual C++ Library CRT X86 Redist Package	None
+Microsoft SQL Server Compact 4.0 SP1 x64 ENU	C:\Program Files\Microsoft SQL Server Compact Edition\
+Microsoft VisualStudio JavaScript Language Service	None
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)	None
+Microsoft Visual Studio 2015 Performance Collection Tools	None
+CCC Help Finnish	C:\Program Files (x86)\ATI Technologies\
+Universal CRT Headers Libraries and Sources	None
+IIS 10.0 Express	None
+Microsoft Visual Studio 2015 Performance Collection Tools - ENU	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Movie Maker	None
+ccc-utility64	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE x64 Package	None
+HP Customer Experience Enhancements	C:\Program Files (x86)\
+Microsoft Visual Studio Community 2015	None
+Azure AD Authentication Connected Service	None
+Windows Software Development Kit for Windows Store Apps	None
+CCC Help Swedish	C:\Program Files (x86)\ATI Technologies\
+Blend for Visual Studio SDK for .NET 4.5	C:\Program Files (x86)\Microsoft Visual Studio 11.0\Blend\
+Windows Live UX Platform Language Pack	None
+Microsoft .NET Framework 4.6.1 SDK	None
+MSVCRT110_amd64	None
+Windows Runtime Intellisense Content - en-us	None
+CCC Help Korean	C:\Program Files (x86)\ATI Technologies\
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU	None
+Visual C++ Compiler/Tools X64 ARM Cross Resource Package	None
+CCC Help Polish	C:\Program Files (x86)\ATI Technologies\
+CCC Help Hungarian	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Core Package	None
+Microsoft SQL Server 2014 Transact-SQL ScriptDom 	None
+Microsoft .NET Framework 4.5 Multi-Targeting Pack	None
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148	None
+Visual C++ Compiler/Tools X64 ARM Cross Package	None
+VS Update core components	None
+HP Support Assistant	C:\Program Files (x86)\Hewlett-Packard\HP Support Framework\
+Windows Live Essentials	None
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration Language Pack (x64) - ENU	None
+Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.24215	None
+Visual C++ IDE Common Resource Package	None
+Microsoft VisualStudio JavaScript Project System	None
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022	None
+Windows App Certification Kit Native Components	None
+Microsoft SQL Server 2012 Command Line Utilities 	None
+Visual C++ Compiler/Tools X64 Base Resource Package	None
+Microsoft Build Tools 14.0 (amd64)	None
+Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU	None
+Catalyst Control Center Graphics Previews Common	C:\Program Files (x86)\ATI Technologies\
+Microsoft Blend for Visual Studio 2015 - ENU	None
+Visual C++ Library CRT X64 Store Package	None
+Microsoft Visual Studio 2015 SDK - ENU	None
+Microsoft SQL Server 2005 Compact Edition [ENU]	C:\Program Files (x86)\Microsoft SQL Server Compact Edition\
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219	None
+Roslyn Language Services - x86	None
+Visual C++ Compiler/Tools X64 Base Package	None
+Test Tools for Microsoft Visual Studio 2015	None
+Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU	None
+CCC Help Danish	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005	None
+Microsoft Visual Studio 2015 Devenv	None
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005	None
+CCC Help English	C:\Program Files (x86)\ATI Technologies\
+vs_update3notification	None
+Catalyst Control Center InstallProxy	C:\Program Files (x86)\ATI Technologies\
+AzureTools.Notifications	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)	None
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64)	None
+Microsoft Build Tools Language Resources 14.0 (x86)	None
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps	None
+Microsoft SQL Server 2012 Native Client 	None
+CCC Help Spanish	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 XAML Visual Diagnostics	None
+Bonjour	C:\Program Files (x86)\Bonjour\
+Visual C++ Library CRT ARM Store Package	None
+Active Directory Authentication Library for SQL Server	None
+CCC Help Dutch	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Core Professional Plus Resource Package	None
+Visual Studio 2015 Prerequisites - ENU Language Pack	None
+Windows Software Development Kit	None
+Visual C++ Compiler/Tools X86 Native Resource Package	None
+Visual C++ MSBuild X64 Package	None
+Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215	None
+Visual Studio 2012 Verification SDK	None
+CCC Help Czech	C:\Program Files (x86)\ATI Technologies\
+Photo Common	None
+CCC Help Dutch	C:\Program Files (x86)\ATI Technologies\
+CCC Help Portuguese	C:\Program Files (x86)\ATI Technologies\
+Microsoft .NET Version Manager (x64) 1.0.0-beta5	None
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU	None
+Microsoft Visual C++ 2005 Redistributable	None
+Microsoft .NET Core 5.0 SDK	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86	None
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote	None
+Windows Live Photo Common	None
+TypeScript Power Tool	None
+Catalyst Control Center - Branding	C:\Program Files (x86)\ATI Technologies\
+CCC Help Spanish	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU	None
+Microsoft System CLR Types for SQL Server 2016	None
+MSBuild/NuGet Integration 14.0 (x86)	None
+Prerequisites for SSDT 	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215	None
+CCC Help Turkish	C:\Program Files (x86)\ATI Technologies\
+Windows Live SOXE Definitions	None
+Visual C++ MSBuild Base Package	None
+AMD Catalyst Install Manager	C:\Program Files\ATI\CIM\
+Catalyst Control Center InstallProxy	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)	None
+CCC Help Greek	C:\Program Files (x86)\ATI Technologies\
+Microsoft Azure Mobile Services Tools for Visual Studio - v1.4	None
+CCC Help Thai	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Professional Core Package	None
+Java 8 Update 121 (64-bit)	C:\Program Files\Java\jre1.8.0_121\
+Visual C++ Library CRT ARM Redist Package	None
+Java SE Development Kit 8 Update 101 (64-bit)	C:\PROGRA~1\Java\JDK18~1.0_1\
+Visual C++ IDE Core Professional Plus Resource Package	None
+Visual C++ Compiler/Tools X86 Base Package	None
+HP 3D DriveGuard	C:\Program Files\Hewlett-Packard\HP 3D DriveGuard\
+Microsoft SQL Server 2016 T-SQL Language Service 	None
+AMD Catalyst Control Center	C:\Program Files (x86)\ATI Technologies\
+AMD Fuel	C:\Program Files\ATI Technologies\
+Microsoft Visual Studio 2015 Shell (Minimum)	None
+Microsoft Portable Library Multi-Targeting Pack	None
+Microsoft Visual Studio 2015 XAML Designer	None
+Visual C++ MSBuild X86 Package	None
+Visual C++ Compiler/Tools X86 ARM Cross Resource Package	None
+Prerequisites for SSDT 	None
+Microsoft Portable Library Multi-Targeting Pack Language Pack - enu	None
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005	None
+HP Quick Launch	None
+StarUML	C:\Program Files (x86)\StarUML\
+Microsoft Visual Studio Connected Services	None
+Microsoft Visual Studio Community 2015 - ENU	None
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)	None
+CCC Help Russian	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 Shell (Minimum) Resources	None
+ Tools for .Net 3.5	None
+Microsoft NuGet - Visual Studio 2015	None
+Active Directory Authentication Library for SQL Server (x86)	None
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161	None
+Windows Software Development Kit DirectX x86 Remote	None
+CCC Help Russian	C:\Program Files (x86)\ATI Technologies\
+Microsoft SQL Server 2014 Management Objects  (x64)	None
+Visual C++ IDE Common Package	None
+HP Postscript Converter	None
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161	None
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005	None
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022	None
+Hewlett-Packard ACLM.NET v1.2.1.1	C:\Program Files (x86)\Hewlett-Packard\HP Health Check\ActiveCheck\
+PS4 Remote Play	C:\Program Files (x86)\Sony\PS4 Remote Play\
+Universal CRT Extension SDK	None
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015	None
+CCC Help Norwegian	C:\Program Files (x86)\ATI Technologies\
+Microsoft .NET Framework 4.6 SDK	None
+Microsoft Visual Studio 2015 Diagnostic Tools - amd64	None
+Visual C++ IDE Debugger Resource Package	None
+Microsoft Agents for Visual Studio 2015 Preview	None
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration (x64)	None
+Visual C++ Library CRT X86 Store Package	None
+Microsoft Expression Blend SDK for .NET 4	C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\
+Microsoft .NET Framework 4.6 Targeting Pack	None
+D3DX10	None
+TypeScript Tools for Microsoft Visual Studio 2015	None
+swMSM	C:\windows\My Product Name\
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030	None
+Roslyn Language Services - x86	None
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2015	None
+Windows Live Installer	None
+Visual C++ Library CRT X64 Redist Package	None
+Microsoft Blend for Visual Studio 2015	None
+Visual C++ Core Build Toolset	None
+Visual C++ Compiler/Tools X86 Base Resource Package	None
+CCC Help Finnish	C:\Program Files (x86)\ATI Technologies\
+Visual C++ MSBuild Base Resource Package	None
+ccc-utility64	C:\Program Files (x86)\ATI Technologies\
+MySQL Connector/C 6.1	C:\Program Files (x86)\MySQL\MySQL Connector C 6.1\
+Windows Espc Resource Package	None
+YouCam	C:\Program Files (x86)\CyberLink\YouCam\
+Microsoft .NET Framework 4 Multi-Targeting Pack	None
+CCC Help Hungarian	C:\Program Files (x86)\ATI Technologies\
+MSVCRT110	None
+Visual C++ Compiler/Tools X86 ARM Cross Package	None
+CCC Help Chinese Traditional	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Core Professional Plus Resource Package	None
+CCC Help Italian	C:\Program Files (x86)\ATI Technologies\
+Photo Gallery	None
+CCC Help Japanese	C:\Program Files (x86)\ATI Technologies\
+HP Documentation	C:\Program Files (x86)\Hewlett-Packard\Documentation\
+Visual C++ Compiler/Tools X86 Base Resource Package	None
+Visual C++ Compiler/Tools X86 Native Package	None
+Microsoft.VisualStudio.Office365	None
+Multi-Device Hybrid Apps using C# - Templates - ENU	None
+Microsoft Visual Studio 2015 Preparation	None
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack	None
+Visual C++ Compiler/Tools X64 Native Package	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft System CLR Types for SQL Server 2014	None
+Microsoft Visual Studio 2015 Windows Diagnostic Tools	None
+Dotfuscator and Analytics Community Edition 5.22.0	None
+Microsoft Visual Studio 2015 Devenv Resources	None
+Visual C++ MSBuild ARM Package	None
+Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24215	None
+Microsoft Visual Studio 2015 Preparation	None
+CCC Help Japanese	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio Services Hub	None
+Microsoft .NET Framework 4.6.1 Targeting Pack	None
+Microsoft .NET Framework 4.6 Targeting Pack (ENU)	None
+Visual C++ Compiler/Tools X86 Base Package	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Google Update Helper	None
+Team Explorer for Microsoft Visual Studio 2015 Update 3.1	None
+Microsoft Azure Storage Connected Service	None
+Visual C++ Compiler/Tools X86 X64 Cross Package	None
+Microsoft Azure Mobile Services SDK V2.0	None
+Microsoft Visual Studio 2015 Preparation	None
+Microsoft SQL Server 2016 LocalDB 	None
+Windows Software Development Kit for Windows Store Apps DirectX x64 Remote	None
+Visual C++ Library CRT X86 Desktop Package	None
+CCC Help German	C:\Program Files (x86)\ATI Technologies\
+CCC Help Chinese Standard	C:\Program Files (x86)\ATI Technologies\
+MSVCRT	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64	None
+HP Utility Center	C:\Program Files (x86)\Hewlett-Packard\HP Utility Center\
+Microsoft SQL Server 2014 T-SQL Language Service 	None
+CCC Help Thai	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 XAML Application Timeline	None
+Microsoft Visual Studio 2015 VsGraphics Helper Dependencies	None
+Microsoft SQL Server 2016 Management Objects  (x64)	None
+Microsoft System CLR Types for SQL Server 2014	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft System CLR Types for SQL Server 2016	None
+CCC Help Chinese Standard	C:\Program Files (x86)\ATI Technologies\
+CCC Help French	C:\Program Files (x86)\ATI Technologies\
+Windows Live PIMT Platform	None
+HP Recovery Manager	None
+CCC Help Danish	C:\Program Files (x86)\ATI Technologies\
+Visual C++ Compiler/Tools X64 X86 Cross Resource Package	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86	None
+Visual C++ Library CRT ARM Desktop Package	None
+Catalyst Control Center Localization All	C:\Program Files (x86)\ATI Technologies\
+Windows Live Communications Platform	None
+Microsoft Help Viewer 2.2	None
+Visual C++ Compiler/Tools X64 Native Resource Package	None
+Visual C++ IDE Base Resource Package	None
+Python Launcher	None
+Microsoft Visual Studio 2015 XAML Designer - ENU	None
+Oracle VM VirtualBox 5.1.18	None
+HP Registration Service	C:\Program Files (x86)\Hewlett-Packard\HP Registration Service\
+CCC Help Korean	C:\Program Files (x86)\ATI Technologies\
+Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1	None
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030	None
+Visual Studio 2015 Prerequisites	None
+Microsoft Visual C++ 2005 Redistributable	None
+Photo Gallery	None
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030	None
+Visual C++ CRT Headers Package	None
+CCC Help Greek	C:\Program Files (x86)\ATI Technologies\
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU	None
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies	None
+Microsoft Build Tools Language Resources 14.0 (amd64)	None
+Microsoft Web Deploy 3.6	None
+Windows Espc Package	None
+CCC Help French	C:\Program Files (x86)\ATI Technologies\
+Microsoft SQL Server 2016 T-SQL ScriptDom 	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64	None
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215	None
+Microsoft Azure Shared Components for Visual Studio 2015 - v1.8	None
+Catalyst Control Center - Branding	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 XAML Application Timeline - ENU	None
+Windows Live UX Platform	None
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Visual C++ Library PGO X86 Package	None
+Catalyst Control Center Localization All	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17	None
+AMD APP SDK Runtime	C:\Program Files (x86)\AMD APP\
+CCC Help Turkish	C:\Program Files (x86)\ATI Technologies\
+Energy Star	C:\Program Files (x86)\Hewlett-Packard\Energy Star\
+CCC Help Italian	C:\Program Files (x86)\ATI Technologies\
+Ralink Bluetooth Stack64	C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\
+Microsoft .NET Framework 4.5.1 SDK	None
+CCC Help English	C:\Program Files (x86)\ATI Technologies\
+Microsoft Silverlight	C:\Program Files\Microsoft Silverlight\
+Microsoft Build Tools 14.0 (x86)	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+HP Wireless Button Driver	None
+WCF Data Services 5.6.4 Runtime	None
+Visual C++ IDE Core Professional Plus Resource Package	None
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030	None
+PreEmptive Analytics Visual Studio Components	None
+Visual C++ IDE Base Resource Package	None
+Intel® Trusted Connect Service Client	None
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86	None
+Application Insights Tools for Visual Studio 2015	None
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215	None
+Movie Maker	None
+Windows Software Development Kit DirectX x64 Remote	None
+Catalyst Control Center	C:\Program Files (x86)\ATI Technologies\
+CCC Help Chinese Traditional	C:\Program Files (x86)\ATI Technologies\
+Visual C++ Library CRT X64 Desktop Package	None
+WCF Data Services Tools for Microsoft Visual Studio 2015	None
+Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU	None
+Microsoft Speech SDK 5.1	None
+CCC Help German	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Debugger Package	None
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding Language Pack (x64) - ENU	None
+Visual C++ Compiler/Tools X64 X86 Cross Package	None
+CCC Help Portuguese	C:\Program Files (x86)\ATI Technologies\
+Microsoft Visual Studio 2015 Test Tools Language Pack - ENU	None
+Catalyst Control Center Profiles Mobile	C:\Program Files (x86)\ATI Technologies\
+Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)	None
+CCC Help Norwegian	C:\Program Files (x86)\ATI Technologies\
+Windows Live SOXE	None
+Visual Studio Graphics Analyzer	None
+Microsoft SQL Server 2016 Management Objects 	None
+Windows App Certification Kit x64	None
+Microsoft SQL Server 2014 Management Objects 	None
+Java Auto Updater	None
+CCC Help Swedish	C:\Program Files (x86)\ATI Technologies\
+Visual C++ IDE Base Package	None
+Microsoft Visual Studio 2015 Profiling Tools	None
+CCC Help Czech	C:\Program Files (x86)\ATI Technologies\
+Microsoft Azure Mobile Services Connected Service	None
+CCC Help Polish	C:\Program Files (x86)\ATI Technologies\
+Microsoft SQL Server Data Tools - enu (14.0.60519.0)	None
+Visual C++ Compiler/Tools X86 X64 Cross Resource Package	None
+Microsoft Agents for Visual Studio 2015 Preview - ENU	None
+Visual C++ Library CRT Source Package	None
+HP CoolSense	None
