@@ -27,20 +27,28 @@ def main():
 	brain = Brain()
 	classifier = JarvisClassifier()
 	commandManager = CommandManager()
-	#db = DataDbHelper()
+	db = DataDbHelper()
 	
 	while(True):
 	
 		msg = input()
 		#cmd = brain.getCommand(msg)
 		cmd = classifier.classify(msg,'general')
-		sub = classifier.classify(msg,cmd)
+		if cmd == "greeting":
+			sub = "NONE"
+		else:
+			sub = classifier.classify(msg,cmd)
 		
 		#React
-		entity , type = commandManager.callCommand(cmd, msg)
+		print(cmd, sub)
+		entity , type = commandManager.callCommand(cmd, sub, msg)
 		print(cmd,sub,entity,type)
 		if msg == " close" or msg == "close":
 			break
+		try:
+			db.insertIntoNewData(msg, cmd, sub, 0,0,type)
+		except:
+			print("entry exists")
 	print("closed")
 			
 		
